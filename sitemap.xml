@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/CONTRIBUTING/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/CONTRIBUTING/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/CONTRIBUTING/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/INSTALL/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/INSTALL/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/INSTALL/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/RELEASE/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/RELEASE/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/RELEASE/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/THEORY/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/THEORY/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/THEORY/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/TODO/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/TODO/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/TODO/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/code-style/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/code-style/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/code-style/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/data-structure/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/data-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/data-structure/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/developers/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/developers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/developers/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/elf/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/elf/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/elf/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/log/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/log/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/log/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/relocations/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/relocations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/relocations/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/symbol-value/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/symbol-value/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/symbol-value/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/ulpatch/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpatch/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpatch/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/ulpatch_test/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpatch_test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpatch_test/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/ulpinfo/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpinfo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpinfo/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/ultask/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ultask/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ultask/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/CONTRIBUTING/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/CONTRIBUTING/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/CONTRIBUTING/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/INSTALL/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/INSTALL/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/INSTALL/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/RELEASE/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/RELEASE/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/RELEASE/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/THEORY/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/THEORY/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/THEORY/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/TODO/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/TODO/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/TODO/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/code-style/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/code-style/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/code-style/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/data-structure/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/data-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/data-structure/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/developers/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/developers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/developers/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/elf/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/elf/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/elf/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/log/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/log/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/log/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/relocations/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/relocations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/relocations/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/symbol-value/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/symbol-value/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/symbol-value/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/ulpatch/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpatch/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpatch/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/ulpatch_test/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpatch_test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpatch_test/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/ulpinfo/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ulpinfo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ulpinfo/"/>
+    </url>
+    <url>
+        <loc>https://rtoax.github.io/ulpatch/zh/ultask/</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rtoax.github.io/ulpatch/zh/ultask/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rtoax.github.io/ulpatch/ultask/"/>
+    </url>
+</urlset>
